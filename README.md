@@ -1,5 +1,7 @@
 # movie-picker-app
+A web App for making selecting movies. Users can search and make their own movie lists then if the selection matches between two users then the move will get the upvote. Follow the instructions to run the App. 
 
+I have used Vue, Vuetify, Firebase for making the app. 
 ## Project setup
 ```
 npm install
